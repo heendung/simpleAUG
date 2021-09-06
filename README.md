@@ -1,1 +1,1 @@
-# simpleAUG
+# SimpleAUG
