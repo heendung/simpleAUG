@@ -8,4 +8,4 @@ Turning Implicit Knowledge in the Dataset into Explicit Training Examples for Vi
 </p>
 <br/>
 
-More updates will be avaialble soon.
+More updates will be available soon.
